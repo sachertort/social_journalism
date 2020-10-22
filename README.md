@@ -3,8 +3,8 @@
 Программа состоит из 3 модулей:
   * **NLP_project_data-scratching.ipynb** — краулеры для сбора текстов с сайтов изданий
   * **NLP_project_morphology.ipynb** — сегментация по предложениям, токенизация, лемматизация и морфологический анализ
-  * **NLP_project_final_search.ipynb** — поиск по корпусу (он может работать с подготовленной двумя предыдущими модулями базой данных *project_nlp.bd* автономно)  
+  * **NLP_project_final_search.ipynb** — поиск по корпусу (он может работать с подготовленной двумя предыдущими модулями базой данных *project_nlp.db* автономно)  
   
 Проект выполнили студенты группы БКЛ182 Катя Гриневская, Рома Казаков, Ксюша Петухова и Ника Смилга.  
 
-База данных доступна по ссылке: [*project_nlp.bd*](https://drive.google.com/file/d/1rkRkHm6KuTb0Q6aW804p7B-48bY990Gg/view?usp=sharing).
+База данных доступна по ссылке: [*project_nlp.db*](https://drive.google.com/file/d/1rkRkHm6KuTb0Q6aW804p7B-48bY990Gg/view?usp=sharing).
